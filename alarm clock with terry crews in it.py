@@ -20,7 +20,7 @@ if am_pm == 'pm' or am_pm == 'Pm' or am_pm == 'PM' :
 
     alarmhour = alarmhour + 12    
         
-    print(alarmhour)
+
 
         
     while(1 == 1) :
