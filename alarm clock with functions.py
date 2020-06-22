@@ -24,7 +24,6 @@ def ring_alarm(alarmhour,alarmMin,am_pm) :
 
         alarmhour = alarmhour + 12    
         
-        print(alarmhour)
 
         
     while(1 == 1) :
